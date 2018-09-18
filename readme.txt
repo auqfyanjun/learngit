@@ -1,2 +1,3 @@
 git is a dist version control system 	
-add gpl   
+add gpl
+Git has amutable index called stage   
